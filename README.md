@@ -27,7 +27,7 @@ Kotlin · Jetpack Compose · Room · WorkManager · Cloudflare Workers · D1 · 
 
 ### Зв'язок
 
-🌐 [www.steppe.workers.dev](https://www.steppe.workers.dev) · ✉️ форма на сайті
+🌐 [www.steppe.workers.dev](https://www.steppe.workers.dev) · ✉️ [написати мені](https://www.steppe.workers.dev/#contact)
 
 ---
 
@@ -40,6 +40,6 @@ I'm a developer from Ukraine. Under the **Steppe** brand I build simple, good-lo
 - 🪙 **[Kopiyka](https://www.steppe.workers.dev/en/kopiyka/)** — an expense tracker and budget: budgets with a daily limit, goals, recurring payments, multi-currency accounts, a shared family budget.
 - 🧭 **Obrii** — a Gecko-based Android browser with ad and tracker blocking. *In development.*
 
-🌐 [www.steppe.workers.dev/en/](https://www.steppe.workers.dev/en/)
+🌐 [www.steppe.workers.dev/en/](https://www.steppe.workers.dev/en/) · ✉️ [contact me](https://www.steppe.workers.dev/en/#contact)
 
 </details>
