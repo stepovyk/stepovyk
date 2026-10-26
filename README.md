@@ -17,9 +17,9 @@
 
 ### Застосунки
 
-- 🍲 **[Смак](https://www.steppe.workers.dev/smak/)** — книга рецептів: страви з сайтів, фото й паперових зошитів, покрокове готування з таймерами, меню на тиждень і список покупок, що сам групується за відділами магазину.
-- 🪙 **[Копійка](https://www.steppe.workers.dev/kopiyka/)** — облік витрат і бюджет: запис за секунди, бюджети з денним лімітом, цілі, регулярні платежі, рахунки в різних валютах за курсом НБУ, спільний бюджет для родини.
-- 🧭 **Обрій** — браузер для Android на рушії Gecko з блокуванням реклами й захистом від стеження. *У розробці.*
+- 🍲 **[Смак](https://www.steppe.workers.dev/smak/)** – книга рецептів: страви з сайтів, фото й паперових зошитів, покрокове готування з таймерами, меню на тиждень і список покупок, що сам групується за відділами магазину.
+- 🪙 **[Копійка](https://www.steppe.workers.dev/kopiyka/)** – облік витрат і бюджет: запис за секунди, бюджети з денним лімітом, цілі, регулярні платежі, рахунки в різних валютах за курсом НБУ, спільний бюджет для родини.
+- 🧭 **Обрій** – браузер для Android на рушії Gecko з блокуванням реклами й захистом від стеження. *У розробці.*
 
 ### Чим працюю
 
@@ -36,9 +36,9 @@ Kotlin · Jetpack Compose · Room · WorkManager · Cloudflare Workers · D1 · 
 
 I'm a developer from Ukraine. Under the **Steppe** brand I build simple, good-looking apps for everyday life: no ads, no tracking, nothing extra. Every app is fully in Ukrainian and English and works offline wherever possible.
 
-- 🍲 **[Smak](https://www.steppe.workers.dev/en/smak/)** — a recipe book: collect dishes from websites, photos and notebooks, cook step by step, plan the week's meals.
-- 🪙 **[Kopiyka](https://www.steppe.workers.dev/en/kopiyka/)** — an expense tracker and budget: budgets with a daily limit, goals, recurring payments, multi-currency accounts, a shared family budget.
-- 🧭 **Obrii** — a Gecko-based Android browser with ad and tracker blocking. *In development.*
+- 🍲 **[Smak](https://www.steppe.workers.dev/en/smak/)** – a recipe book: collect dishes from websites, photos and notebooks, cook step by step, plan the week's meals.
+- 🪙 **[Kopiyka](https://www.steppe.workers.dev/en/kopiyka/)** – an expense tracker and budget: budgets with a daily limit, goals, recurring payments, multi-currency accounts, a shared family budget.
+- 🧭 **Obrii** – a Gecko-based Android browser with ad and tracker blocking. *In development.*
 
 🌐 [www.steppe.workers.dev/en/](https://www.steppe.workers.dev/en/) · ✉️ [contact me](https://www.steppe.workers.dev/en/#contact)
 
