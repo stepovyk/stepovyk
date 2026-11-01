@@ -21,6 +21,10 @@
 - 🪙 **[Копійка](https://www.steppe.workers.dev/kopiyka/)** – облік витрат і бюджет: запис за секунди, бюджети з денним лімітом, цілі, регулярні платежі, рахунки в різних валютах за курсом НБУ, спільний бюджет для родини.
 - 🧭 **[Обрій](https://www.steppe.workers.dev/obrii/)** – браузер для Android на рушії Gecko з блокуванням реклами й захистом від стеження. *У розробці.*
 
+### Ігри українською
+
+Безкоштовні повні українські локалізації: [Call of Duty: World at War](https://github.com/stepovyk/cod-waw-ukrainian) і [Mount & Blade II: Bannerlord](https://github.com/stepovyk/bannerlord-ukrainian). Далі – уся серія Call of Duty. Усе в одному місці: **[stepovyk.github.io](https://stepovyk.github.io)** · новини в [Telegram](https://t.me/stepovyk_ua).
+
 ### Чим працюю
 
 Kotlin · Jetpack Compose · Room · WorkManager · Cloudflare Workers · D1 · Python
@@ -39,6 +43,8 @@ I'm a developer from Ukraine. Under the **Steppe** brand I build simple, good-lo
 - 🍲 **[Smak](https://www.steppe.workers.dev/en/smak/)** – a recipe book: collect dishes from websites, photos and notebooks, cook step by step, plan the week's meals.
 - 🪙 **[Kopiyka](https://www.steppe.workers.dev/en/kopiyka/)** – an expense tracker and budget: budgets with a daily limit, goals, recurring payments, multi-currency accounts, a shared family budget.
 - 🧭 **[Obrii](https://www.steppe.workers.dev/en/obrii/)** – a Gecko-based Android browser with ad and tracker blocking. *In development.*
+
+🎮 Free Ukrainian game translations: [stepovyk.github.io](https://stepovyk.github.io)
 
 🌐 [www.steppe.workers.dev/en/](https://www.steppe.workers.dev/en/) · ✉️ [contact me](https://www.steppe.workers.dev/en/#contact)
 
