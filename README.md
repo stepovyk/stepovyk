@@ -1,9 +1,6 @@
 <p align="center">
   <a href="https://stepovyk.github.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/stepovyk-logo-dark.png">
-      <img src="assets/stepovyk-logo-light.png" height="72" alt="Stepovyk">
-    </picture>
+    <img src="assets/stepovyk-logo.png" height="72" alt="Stepovyk">
   </a>
 </p>
 
